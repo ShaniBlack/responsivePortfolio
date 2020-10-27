@@ -6,7 +6,11 @@ h3{
     font-size: 20px;
 }
 
+.card{
+    margin-top: 50px;
+}
 .card-body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+    padding-right: 1;
 }
